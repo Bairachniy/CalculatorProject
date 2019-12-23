@@ -1,0 +1,14 @@
+E:\C# usb\MyProject USB\CalculatorMicrosoft\CalculatorMicrosoft\bin\Debug\CalculatorMicrosoft.exe.config
+E:\C# usb\MyProject USB\CalculatorMicrosoft\CalculatorMicrosoft\bin\Debug\CalculatorMicrosoft.exe
+E:\C# usb\MyProject USB\CalculatorMicrosoft\CalculatorMicrosoft\bin\Debug\CalculatorMicrosoft.pdb
+E:\C# usb\MyProject USB\CalculatorMicrosoft\CalculatorMicrosoft\obj\Debug\CalculatorMicrosoft.csprojAssemblyReference.cache
+E:\C# usb\MyProject USB\CalculatorMicrosoft\CalculatorMicrosoft\obj\Debug\MainWindow.g.cs
+E:\C# usb\MyProject USB\CalculatorMicrosoft\CalculatorMicrosoft\obj\Debug\App.g.cs
+E:\C# usb\MyProject USB\CalculatorMicrosoft\CalculatorMicrosoft\obj\Debug\CalculatorMicrosoft_MarkupCompile.cache
+E:\C# usb\MyProject USB\CalculatorMicrosoft\CalculatorMicrosoft\obj\Debug\CalculatorMicrosoft_MarkupCompile.lref
+E:\C# usb\MyProject USB\CalculatorMicrosoft\CalculatorMicrosoft\obj\Debug\MainWindow.baml
+E:\C# usb\MyProject USB\CalculatorMicrosoft\CalculatorMicrosoft\obj\Debug\CalculatorMicrosoft.g.resources
+E:\C# usb\MyProject USB\CalculatorMicrosoft\CalculatorMicrosoft\obj\Debug\CalculatorMicrosoft.Properties.Resources.resources
+E:\C# usb\MyProject USB\CalculatorMicrosoft\CalculatorMicrosoft\obj\Debug\CalculatorMicrosoft.csproj.GenerateResource.cache
+E:\C# usb\MyProject USB\CalculatorMicrosoft\CalculatorMicrosoft\obj\Debug\CalculatorMicrosoft.exe
+E:\C# usb\MyProject USB\CalculatorMicrosoft\CalculatorMicrosoft\obj\Debug\CalculatorMicrosoft.pdb
